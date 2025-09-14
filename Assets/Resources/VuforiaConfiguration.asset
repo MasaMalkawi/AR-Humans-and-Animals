@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: 
-    ufoLicenseKey: QVNGemhrVC8vLy8vQUFBQUtNSTYwY0d6YUVtNG1PTXhCbjJBcnhSU3d5TWtsYlpTa0dTdTZjMmo2dEVjcFFZSFdOOXNGTkNsSUVHam93SVdUMFRoOGF5Sm9IZU9TSHQwSWRCbEtnaEZzSkgzSEZ1NTNhSFF2YlM0d29yYmxmUVU3eFc5TjJzNDVMU3lqOEltN3BVdjBmay9Ca2lXblVqRjhtb095cDVNM1dDdHZORXBxNXJSMnFTaVVNZUdhK2pFZmp6dm1wOWxzYWZTOGlLT1VSSzBJSjg0em4rUzlaRmpRUFVlZ1VMK3FIWS9YUXBlditQZEtpWDZvN0FWQy9sTGxEbEZoNmFiTGkzcDN5N3QrQUo4WmRSY2VPSk5mU21wWkQ4VHhISG00RUVpYSt4aEY1UGpxUmFSU1pVczBBdzlGejd1SU9zMlc2cmswZGpYa3RyVU9TMVhHd25aeHlZdVBoMGk3bkR1NWVxZmxOUG82UGhEVktKeExtK3U=
+    ufoLicenseKey: QVpZTXdzZi8vLy8vQUFBQUtLRmxhcjA0djB5dnFjZEdyK0JOV2hDTUtTUnhMWEhZY0dKZ3RyQkFLa3dVT0RKQW1nK21CRFkzc0lmWFRhbzE4WUoyWmYxSmtQMDl1dVk1UUkzQU8vaVVhZlVDZzBlcHdHUnN6bXAxbzBpZ0lOVWhDZE16MldTcWtBUmppUk10NnUxNFJZcCt1cXU1RWtMU3VtNGliODJoRDJSaWNCUlFVMExnUHdvNlUzdEh2YVBLaElYS0RmWjdCZWVzN29IVjd5b3VYN0RFSXpGTGtUQ0pQbDkxRnF4N3VmSjBCcVgxT0xGUk93SGNGWkpEZlh2dlJGZnI3NXZFUzZqS2JjeWxlR0RRQnEvN210bVdHU2Z6VnVtY1JsRGQvUFBrTjR3Z2ZxbGF1YXhnRER4M29sK1VtNEpmQjI1UzlmbjhuS1FzWFZVaGpmSExkR2RITzVXNGFWVDh4TFg1eSs4bk5HMmxMOUhBVzVNalk3Ym8=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -23,12 +23,12 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     logLevel: 0
-    version: 11.3.4
-    eulaAcceptedVersions: '{"Values":["0.0","11.3"]}'
+    version: 11.4.4
+    eulaAcceptedVersions: '{"Values":["","0.0","11.4"]}'
   database:
     disableModelExtraction: 0
   plugins:
-    pluginDirectory: asset://Vuforia
+    pluginDirectory: Vuforia
   shaders:
     depthMaskShader: {fileID: 4800000, guid: 9894afa5f3a5e4bbca625981beb1b20e, type: 3}
     outlineShader: {fileID: 4800000, guid: 88d3b6b5cf364476ca39fcec255331b1, type: 3}
