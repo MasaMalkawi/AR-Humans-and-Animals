@@ -15350,17 +15350,17 @@ PrefabInstance:
     - target: {fileID: 6482529382559729189, guid: 646969dd0c6cdf9449db67abb9e79675,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6482529382559729189, guid: 646969dd0c6cdf9449db67abb9e79675,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6482529382559729189, guid: 646969dd0c6cdf9449db67abb9e79675,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6482529382559729189, guid: 646969dd0c6cdf9449db67abb9e79675,
         type: 3}
@@ -20014,7 +20014,7 @@ Transform:
   m_GameObject: {fileID: 1185817833}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 6}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -29821,7 +29821,7 @@ Transform:
   m_GameObject: {fileID: 1815355310}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 12}
+  m_LocalPosition: {x: 0, y: 0, z: 3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -31982,6 +31982,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 274799353}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream:Assets/_Projects/Scene/New.unity
 --- !u!1001 &1936865506
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32187,6 +32188,8 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+=======
+>>>>>>> Stashed changes:Assets/_Project/New.unity
 --- !u!1 &1945572508
 GameObject:
   m_ObjectHideFlags: 0
@@ -66370,7 +66373,6 @@ SkinnedMeshRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1938088358}
   - {fileID: 930876760}
   - {fileID: 1815355313}
   - {fileID: 1185817836}
